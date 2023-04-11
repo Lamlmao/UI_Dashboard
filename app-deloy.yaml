@@ -19,6 +19,7 @@ spec:
         - containerPort: 80
 
 --- 
+// Lam dep trai
 
 apiVersion: v1
 kind: Service
